@@ -137,13 +137,13 @@ main {
       height: 248px;
     }
 
-    &.parent_1 > :nth-child(2) {
+    &.parent_1 > :nth-child(1) {
       background-color: #38c4c1;
       opacity: 0.7;
       height: 248px;
     }
 
-    &.parent_1 > :nth-child(3) {
+    &.parent_1 > :nth-child(2) {
       background-color: #fe7ec9;
       opacity: 0.7;
       height: 248px;
@@ -192,8 +192,8 @@ footer {
   height: 5%; /* Hauteur relative */
   text-align: center;
   color: #ffffff;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin:auto;
+  width: 100%;
   /*position: relative; /* Nécessaire pour positionner le <p> absolument */
 }
 
@@ -218,12 +218,17 @@ footer {
       top: 50px;
       line-height: 50px;
     }
+    div{ width: 100%; height: auto;
+    img {
+      width: 100%;
+    }
+  }
   }
   /******************************************/
   .parent {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    /*grid-template-columns: 1fr 1fr 100%; /* 2 colonnes à 50% et 1 colonne à 100% */
+    grid-template-columns: repeat(2,1fr); /*calc(-50%) calc(-50%) calc(-50%) calc(-50%) calc(
+        100% )1fr 1fr 1fr 2frgrid-template-columns: 1fr 1fr 100%; 2 colonnes à 50% et 1 colonne à 100% */
     gap: 0px;
   }
   /*********************************************************/
@@ -231,4 +236,98 @@ footer {
     width: 100%;
     text-align: center;
   }
+  .parent_1{
+    display: grid;
+      grid-template-columns:repeat(2,1fr);
+      gap: 20px;
+  }
+}
+
+@media (min-width: 1024px){
+  body{
+margin: 0; 
+padding: 0;
+display: flex;               /* Affiche les éléments dans un layout flexible */
+  flex-direction: column; 
+  }
+  /****************************************/
+  header {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 20px;
+  position: relative;
+  .Education {
+    color: var(--pink);
+    font-size: 24px;
+    width: 50%;
+  }
+  .fa-bars {
+    font-size: 30px;
+    cursor: pointer;
+    /* padding-right: 5px;*/
+  }
+}
+/*****************************************/
+section {
+  display: flex;
+  justify-content: space-between;
+}
+  /***************************************/
+  .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px; width: 95%;
+   /* background-color: green;*/
+    
+      h1 {
+        /*background-color: #42434b;*/
+        font-size: 28px;
+        color: #488df4;
+        font-family: Oswald;
+        width: 300px;
+        white-space: normal;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .article-container{
+       /* background-color: aqua;*/
+      }
+      &.container > :nth-child(2){
+        margin-right: 15%;
+        margin-left:auto; 
+        padding-left:0;
+         height: 260px;
+         width:60%;
+         white-space: normal;
+      }
+      
+}
+/******************************/
+.parent {
+  display: grid;
+  grid-template-columns:repeat(1, 1fr 1fr 1fr 1fr); /*calc(-50%) calc(-50%) calc(-50%) calc(-50%) calc(
+      100% )1fr 1fr 1fr 2fr grid-template-columns: 1fr 1fr 100%; 2 colonnes à 50% et 1 colonne à 100% */
+  gap: 0px;
+}
+/*****************************************/
+div, section.parent_1 {
+  display: flex;               /* Met chaque élément en flex */
+  flex-direction: column;   /* Les articles seront empilés verticalement */
+  gap: 20px;  
+                  /* Espace entre les articles */
+}
+div {
+  width: 40%;                  /* Largeur du div (par exemple 40% de la largeur totale) */
+}
+
+section.parent_1 {
+  width: 55%; 
+  display: grid;
+  grid-template-columns: repeat(2,1fr);                 /* Largeur de la section */
+}
+section.parent_1 article {
+  margin-bottom: 20px; 
+        /* Un peu d'espace entre les articles */
+}
 }
