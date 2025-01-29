@@ -1,0 +1,234 @@
+:root {
+  font-size: 10px;
+  --dark-color: #42434b;
+  --blue: #488df4;
+  --pink: #fe7ec9;
+  --black: #000000;
+  --white: #ffffff;
+  --dark-opacity: #333333;
+}
+body {
+  margin: 20px;
+  padding-right: 40px;
+  line-height: 40px;
+}
+
+/*----------------------------------------Header--------------------*/
+header {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 20px;
+  position: relative;
+  .Education {
+    color: var(--pink);
+    font-size: 24px;
+    width: 100%;
+  }
+  .fa-bars {
+    font-size: 30px;
+    cursor: pointer;
+    /* padding-right: 5px;*/
+  }
+}
+
+/*-----------------------------------------------Nav--------------------*/
+nav {
+  display: none;
+  /*display: flex;*/
+  justify-content: space-between;
+  background-color: var(--dark-opacity);
+  padding: 20px;
+  width: 60%;
+  height: 100vh;
+  opacity: 0.7;
+  position: /*absolute;*/ fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+
+  .fa-close {
+    font-size: 30px;
+    top: 10px;
+    right: 10px;
+    position: absolute;
+  }
+
+  ul {
+    list-style: none;
+    li {
+      margin-top: 10px;
+      text-align: center;
+    }
+    a {
+      color: var(--white);
+      text-decoration: none;
+      font-size: 20px;
+    }
+  }
+}
+main {
+  padding: 20px;
+  text-align: center;
+  h1 {
+    text-align: center;
+    font-size: 28px;
+    color: #488df4;
+    font-family: Oswald;
+  }
+  h2 {
+    font-size: 30px;
+    font-family: Oswald;
+    width: 100%;
+  }
+  h3 {
+    font-size: 20px;
+    color: #333333;
+    opacity: 0.7;
+    width: 100%;
+  }
+  .joue {
+    font-size: 20px;
+    font-family: Oswald;
+  }
+  img {
+    height: 248px;
+    width: 100%;
+  }
+  section {
+    &.parent > :first-child {
+      background-color: #38c4c1;
+      height: 248px;
+      /* display: flex; /* Pour aligner les éléments */
+      /*flex-direction: column; /* Alignement vertical */
+      /* align-items: center; /* Centrer horizontalement */
+      /* text-align: center; /* Centrer le texte */
+      /*padding: 20px; /* Ajoutez un peu d'espace intérieur */
+    }
+    .small_book {
+      width: 50px;
+      height: auto;
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    &.parent > :nth-child(2) {
+      background-color: #feca02;
+      /*opacity: 0.5;*/
+      height: 248px;
+    }
+    .Philosophie {
+      opacity: 0.5;
+      width: 50px;
+      height: auto;
+      background-color: #ffffff;
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    &.parent > :nth-child(3) {
+      background-color: #fe7ec9;
+      /*opacity: 0.5;*/
+      height: 248px;
+    }
+    &.parent > :nth-child(4) {
+      background-color: #488df4;
+      height: 248px;
+    }
+
+    &.parent_1 > :nth-child(2) {
+      background-color: #38c4c1;
+      opacity: 0.7;
+      height: 248px;
+    }
+
+    &.parent_1 > :nth-child(3) {
+      background-color: #fe7ec9;
+      opacity: 0.7;
+      height: 248px;
+    }
+    article {
+      text-align: center;
+      /*flex: 1 1 calc(25% - 40px);
+      max-width: calc(40% - 40px);
+      box-sizing: border-box;*/
+      position: relative;
+      margin-top: 10px;
+    }
+    .article-container {
+      margin-top: 0;
+    }
+    .article-container1 {
+      margin-top: 0;
+    }
+    .Psmall_book {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 20px;
+      padding-top: 50px;
+      color: #42434b;
+    }
+    .paragraph {
+      position: absolute;
+      top: 75%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      line-height: 10px;
+      width: 100%;
+    }
+    .btn {
+      position: absolute;
+      top: 90%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+}
+footer {
+  background-color: #333333;
+  height: 5%; /* Hauteur relative */
+  text-align: center;
+  color: #ffffff;
+  margin-left: 20px;
+  margin-right: 20px;
+  /*position: relative; /* Nécessaire pour positionner le <p> absolument */
+}
+
+/*************************************Responsive***************/
+@media (min-width: 720px) {
+  body {
+    margin: 0;
+    padding-right: 0;
+  }
+
+  /**********************************************/
+  .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px; /* Espacement entre les articles
+
+      /* Style général des articles */
+
+    /**************************/
+    .article-container {
+      text-align: center;
+      top: 50px;
+      line-height: 50px;
+    }
+  }
+  /******************************************/
+  .parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /*grid-template-columns: 1fr 1fr 100%; /* 2 colonnes à 50% et 1 colonne à 100% */
+    gap: 0px;
+  }
+  /*********************************************************/
+  .article-container2 {
+    width: 100%;
+    text-align: center;
+  }
+}
