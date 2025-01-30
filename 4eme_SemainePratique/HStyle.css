@@ -20,6 +20,8 @@ header {
   justify-content: space-around;
   padding: 20px;
   position: relative;
+  margin-left: 20px;
+  margin-right: 20px;
   
   .Logo {
     color: var(--pink);
@@ -38,12 +40,43 @@ main{
   .section1{
     background-color: var(--secondary);
     /*object-fit:fill;*/ 
+    .Pflamme{
+      line-height: 25px;
+      span{
+        color: var(--Light);
+        em{ color: var(--primary);
+         font-size: 25px;}
+        font-family: 'KumbhSans-Regular';
+        font-size: 22px;
+        margin: 0px;
+        
+     }
+    }
+    
+   p{
+    
+    font-family: 'KumbhSans-Regular';
+    font-size: 36px;
+    color: var(--Light);
+    margin: 20px;
+   }
+   button{
+    background-color: var(--primary);
+    color: var(--Light);
+    border: none;
+    width: 155px;
+    height: 58px;
+    border-radius: 7px;
+    font-size: 17px;
+    margin: 20px;
+  }
   }
   .section1 > :first-child{
      margin-left: 20px;
      margin-right: 20px;
     /*background-color: #333333;*/
     font-family:'Kumbh Sans'
+    
   }
 }
 
