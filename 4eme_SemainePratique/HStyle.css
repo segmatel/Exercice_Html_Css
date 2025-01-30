@@ -1,0 +1,50 @@
+:root {
+  font-size: 20px;
+  --primary: #fb8516;
+  --secondary: #4248bd;
+  --Light: #ffffff;
+  --Dark: #1111111;
+  --Lighy-secondary: #fff3e7;
+  --footer: #333333;
+}
+body{
+  @font-face {
+  font-family: 'Kumbh Sans';
+  src: url('Font/KumbhSans-Regular.ttf') format('truetype');
+  }
+  margin: 0;
+}
+/*******************************/
+header {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  position: relative;
+  
+  .Logo {
+    color: var(--pink);
+    font-size: 24px;
+    width: 100%;
+  }
+  .fa-bars {
+    font-size: 30px;
+    cursor: pointer;
+    /* padding-right: 5px;*/
+  }
+}
+/****************************/
+main{
+  
+  .section1{
+    background-color: var(--secondary);
+    /*object-fit:fill;*/ 
+  }
+  .section1 > :first-child{
+     margin-left: 20px;
+     margin-right: 20px;
+    /*background-color: #333333;*/
+    font-family:'Kumbh Sans'
+  }
+}
+
+
