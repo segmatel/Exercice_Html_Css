@@ -10,7 +10,7 @@
 
 body{
   margin: 0;
-  font-family:'kumbhSans', 
+  font-family:'Kumbh Sans', sans-serif;
 }
 
 /*******************************/
@@ -98,17 +98,74 @@ main{
     
   }
   .hebergeur > article{
-    background-color: var(--primary);
-    height: 300px;
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 7px;
-    border-radius: 15px;
-    color: var(--Light);
-    font-size: 24px;
+  
+      background-color: var(--primary);
+      height: 300px;
+      margin-left: 40px;
+      margin-right: 40px;
+      margin-top: 7px;
+      border-radius: 7px;
+      color: var(--Light);
+      font-size: 24px;
+      display: flex;
+      flex-direction: column; /* Organiser les éléments en colonne */
+      justify-content: center; /* Centrer le contenu verticalement */
+      align-items: center; /* Centrer le contenu horizontalement */
+
+      img {
+        
+        margin-bottom: 20px; /* Espacement sous l'image */
+      }
+      
+      p {
+        margin: 0; /* Annuler tout marge par défaut */
+        line-height: 1.5; /* Améliorer l'espacement entre les lignes de texte */
+      }
     
   }
+  p:hover {
+    color: aqua; cursor: pointer;;
+  }
+  /**********************************Section3*************/
+  .Presentation{
+    background-color: var(--Lighy-secondary);
+    font-size: 20px;
+    font-family:'Kumbh Sans', sans-serif;
+    h2{
+      color: var(--secondary);
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    p{
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    
+  }
+  /****************************Section3*****************/
+  .Assistance{
+   img{
+    text-align: center;
+  }
   
+  .border{
+    border: 3px solid var(--primary);
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  button{
+    background-color: var(--primary);
+    color: var(--Light);
+    border: none;
+    width: 150px;
+    height: 52px;
+    border-radius: 7px;
+    font-size: 17px;
+    margin-left: 40px;
+  }
+  
+}
+
 }
 
 
