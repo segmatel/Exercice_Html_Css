@@ -1,5 +1,5 @@
 :root {
-  font-size: 20px;
+  /*font-size: 20px;*/
   --primary: #fb8516;
   --secondary: #4248bd;
   --Light: #ffffff;
@@ -7,26 +7,26 @@
   --Lighy-secondary: #fff3e7;
   --footer: #333333;
 }
+
 body{
-  @font-face {
-  font-family: 'Kumbh Sans';
-  src: url('Font/KumbhSans-Regular.ttf') format('truetype');
-  }
   margin: 0;
+  font-family:'kumbhSans', 
 }
+
 /*******************************/
 header {
   display: flex;
   justify-content: space-around;
-  padding: 20px;
+  padding-top: 20px;
   position: relative;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
   
   .Logo {
     color: var(--pink);
     font-size: 24px;
     width: 100%;
+    font-family: 'Kumbh Sans', sans-serif;
   }
   .fa-bars {
     font-size: 30px;
@@ -34,9 +34,10 @@ header {
     /* padding-right: 5px;*/
   }
 }
-/****************************/
+/*****************Main***********/
 main{
   
+  /*****************************Section1*******/
   .section1{
     background-color: var(--secondary);
     /*object-fit:fill;*/ 
@@ -46,7 +47,7 @@ main{
         color: var(--Light);
         em{ color: var(--primary);
          font-size: 25px;}
-        font-family: 'KumbhSans-Regular';
+         font-family: 'Kumbh Sans', sans-serif;
         font-size: 22px;
         margin: 0px;
         
@@ -54,8 +55,7 @@ main{
     }
     
    p{
-    
-    font-family: 'KumbhSans-Regular';
+    font-family: 'Kumbh Sans';
     font-size: 36px;
     color: var(--Light);
     margin: 20px;
@@ -64,20 +64,51 @@ main{
     background-color: var(--primary);
     color: var(--Light);
     border: none;
-    width: 155px;
-    height: 58px;
+    width: 150px;
+    height: 52px;
     border-radius: 7px;
     font-size: 17px;
     margin: 20px;
   }
+  .promo{
+    font-size: 18px;
+    line-height: 18px;
+    font-family: 'Kumbh Sans';
+       em{
+         color: var(--primary);
+         font-size: 18px;
+         margin-top: 0;
+       }
+     }
   }
   .section1 > :first-child{
      margin-left: 20px;
      margin-right: 20px;
     /*background-color: #333333;*/
-    font-family:'Kumbh Sans'
+    font-family: 'Kumbh Sans';
     
   }
+  /***************************Section2*******************/
+
+  h1{
+    font-size: 34px;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Kumbh Sans';
+    
+  }
+  .hebergeur > article{
+    background-color: var(--primary);
+    height: 300px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 7px;
+    border-radius: 15px;
+    color: var(--Light);
+    font-size: 24px;
+    
+  }
+  
 }
 
 
