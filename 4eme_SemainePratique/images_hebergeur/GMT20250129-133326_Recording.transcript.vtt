@@ -1,0 +1,2514 @@
+WEBVTT
+
+1
+00:00:02.650 --> 00:00:04.049
+Benoit Gambier: Même pas attendu la réponse
+
+2
+00:00:04.280 --> 00:00:05.760
+Benoit Gambier: Hop.
+
+3
+00:00:06.120 --> 00:00:07.390
+Benoit Gambier: c'était. Vous êtes d'accord.
+
+4
+00:00:08.580 --> 00:00:11.099
+jean-luc lacaze: C'était pas une question, c'était Vous êtes d'accord. Rires.
+
+5
+00:00:11.100 --> 00:00:11.730
+Benoit Gambier: C'est.
+
+6
+00:00:13.430 --> 00:00:17.410
+jean-luc lacaze: À l'exportation. Et on retourne sur notre randonnée.
+
+7
+00:00:20.080 --> 00:00:21.190
+jean-luc lacaze: On est là,
+
+8
+00:00:21.330 --> 00:00:22.300
+jean-luc lacaze: partagés.
+
+9
+00:00:25.610 --> 00:00:27.829
+jean-luc lacaze: alors ça, je le poussais.
+
+10
+00:00:30.300 --> 00:00:31.960
+jean-luc lacaze: je vais maintenant
+
+11
+00:00:35.160 --> 00:00:36.210
+jean-luc lacaze: Ok.
+
+12
+00:00:37.430 --> 00:00:39.550
+jean-luc lacaze: donc on en était là,
+
+13
+00:00:43.880 --> 00:00:45.390
+jean-luc lacaze: on avait fait ça hier.
+
+14
+00:00:47.780 --> 00:00:49.569
+jean-luc lacaze: La maquette est là,
+
+15
+00:00:52.510 --> 00:00:57.060
+jean-luc lacaze: donc on voit, il y a juste deux petits trucs qu'on n'a pas faits
+
+16
+00:00:57.570 --> 00:00:59.230
+jean-luc lacaze: cette partie
+
+17
+00:01:02.110 --> 00:01:04.019
+jean-luc lacaze: qui est encore bleu.
+
+18
+00:01:05.000 --> 00:01:08.149
+jean-luc lacaze: donc le Haider, il y a encore quelques petites retouches.
+
+19
+00:01:10.450 --> 00:01:11.950
+jean-luc lacaze: donc finalement
+
+20
+00:01:12.340 --> 00:01:14.139
+jean-luc lacaze: dans le header
+
+21
+00:01:16.430 --> 00:01:17.949
+jean-luc lacaze: hop. Là,
+
+22
+00:01:24.760 --> 00:01:27.709
+jean-luc lacaze: je vais reprendre ça et je crois qu'il est un peu plus gros.
+
+23
+00:01:28.830 --> 00:01:30.510
+jean-luc lacaze: il doit être en 400,
+
+24
+00:01:34.360 --> 00:01:36.939
+jean-luc lacaze: même Si je fais le golfe, ce sera mieux.
+
+25
+00:01:36.940 --> 00:01:37.519
+Benoit Gambier: Je ne suis pas.
+
+26
+00:01:39.750 --> 00:01:40.720
+jean-luc lacaze: C'est ça.
+
+27
+00:01:40.850 --> 00:01:41.700
+jean-luc lacaze: c'est
+
+28
+00:01:42.160 --> 00:01:42.970
+jean-luc lacaze: oui c'est-à-dire.
+
+29
+00:01:49.060 --> 00:01:50.450
+jean-luc lacaze: Holà,
+
+30
+00:01:52.810 --> 00:01:56.150
+jean-luc lacaze: alors finalement là, il y a des choses qu'on va pouvoir virer.
+
+31
+00:01:56.730 --> 00:01:58.350
+jean-luc lacaze: ça, on peut le
+
+32
+00:01:58.720 --> 00:01:59.910
+jean-luc lacaze: le virer.
+
+33
+00:02:00.480 --> 00:02:01.770
+jean-luc lacaze: ça aussi.
+
+34
+00:02:02.070 --> 00:02:03.789
+jean-luc lacaze: parce qu'on la définit plus haut.
+
+35
+00:02:06.190 --> 00:02:09.009
+jean-luc lacaze: ca n'a pas d'impact et
+
+36
+00:02:10.180 --> 00:02:13.470
+jean-luc lacaze: on est sur la page d'accueil, donc vous voyez que
+
+37
+00:02:13.810 --> 00:02:14.550
+jean-luc lacaze: dans un
+
+38
+00:02:14.670 --> 00:02:15.830
+jean-luc lacaze: accueil
+
+39
+00:02:16.410 --> 00:02:17.490
+jean-luc lacaze: et plus gras.
+
+40
+00:02:21.180 --> 00:02:22.630
+jean-luc lacaze: alors pour
+
+41
+00:02:23.010 --> 00:02:23.670
+jean-luc lacaze: à ce qu'il y a
+
+42
+00:02:23.810 --> 00:02:29.619
+jean-luc lacaze: mettre en place un Rsa donc déjà dans l'html.
+
+43
+00:02:30.520 --> 00:02:32.600
+jean-luc lacaze: on va se rajouter une classe
+
+44
+00:02:35.190 --> 00:02:39.729
+jean-luc lacaze: souvent on peut utiliser selected, par exemple.
+
+45
+00:02:42.630 --> 00:02:45.379
+jean-luc lacaze: après on pourrait mettre, brouette, ça marcherait.
+
+46
+00:02:45.830 --> 00:02:46.880
+Benoit Gambier: Ah, tiens, brouette.
+
+47
+00:02:48.530 --> 00:02:51.079
+jean-luc lacaze: Je reprends tes exemples.
+
+48
+00:02:51.590 --> 00:02:52.130
+Benoit Gambier: Raison pour.
+
+49
+00:02:52.130 --> 00:03:05.590
+jean-luc lacaze: Et donc l'idée là, ça veut dire que on est sur la page d'accueil, donc on applique la classe Select ici. Si on était sur me contacter, on aurait juste à déplacer la classe Select là
+
+50
+00:03:08.340 --> 00:03:11.590
+jean-luc lacaze: et donc dans notre feuille de style
+
+51
+00:03:12.450 --> 00:03:13.760
+jean-luc lacaze: ici.
+
+52
+00:03:15.580 --> 00:03:16.760
+jean-luc lacaze: refaire un
+
+53
+00:03:20.170 --> 00:03:22.510
+jean-luc lacaze: point sélectide.
+
+54
+00:03:25.820 --> 00:03:26.900
+jean-luc lacaze: Non.
+
+55
+00:03:28.390 --> 00:03:29.290
+jean-luc lacaze: c'est pas là.
+
+56
+00:03:30.330 --> 00:03:31.530
+Benoit Gambier: Tu fais des bêtises.
+
+57
+00:03:34.190 --> 00:03:35.070
+jean-luc lacaze: Et là,
+
+58
+00:03:37.490 --> 00:03:40.369
+jean-luc lacaze: et euh, c'est la graisse qui change
+
+59
+00:03:41.730 --> 00:03:46.309
+jean-luc lacaze: en toile, donc on va mettre 600,
+
+60
+00:03:52.920 --> 00:03:53.820
+jean-luc lacaze: voilà
+
+61
+00:03:58.210 --> 00:04:01.980
+jean-luc lacaze: donc ça veut dire croyez si je déplace la classe.
+
+62
+00:04:03.040 --> 00:04:04.389
+jean-luc lacaze: Par exemple, ici.
+
+63
+00:04:05.870 --> 00:04:07.739
+Oumohand Yacine: Quoi même une classe élègue.
+
+64
+00:04:08.520 --> 00:04:15.020
+jean-luc lacaze: Pour avoir un style qui est différent dans la maquette, tu vois l'accueil.
+
+65
+00:04:15.860 --> 00:04:19.140
+jean-luc lacaze: si j'ose dire, c'est pas ça.
+
+66
+00:04:19.549 --> 00:04:20.559
+Benoit Gambier: Il est gras.
+
+67
+00:04:20.790 --> 00:04:21.589
+Oumohand Yacine: D'accord.
+
+68
+00:04:24.860 --> 00:04:27.400
+tarik: En fait Jean-luc: si je comprends bien qu'en
+
+69
+00:04:27.570 --> 00:04:35.690
+tarik: donc là, sur la maquette, on est sur la page Accueil, donc là, le Select tu l'as mis sur la page Accueil, Si, par exemple, on fait le Html de la page Mes voyages.
+
+70
+00:04:36.320 --> 00:04:39.870
+tarik: on déplace le Select et on le met sur le mes voyages.
+
+71
+00:04:39.870 --> 00:04:41.150
+jean-luc lacaze: Voilà.
+
+72
+00:04:41.150 --> 00:04:43.590
+tarik: Et après on fait notre truc bon, ok.
+
+73
+00:04:43.590 --> 00:04:46.869
+jean-luc lacaze: Et comme ça, on n'a pas besoin de se soucier de quoi que ce soit.
+
+74
+00:04:47.140 --> 00:04:47.830
+tarik: Ok.
+
+75
+00:04:51.790 --> 00:04:55.900
+jean-luc lacaze: Alors je remets sur. Accueil.
+
+76
+00:04:59.800 --> 00:05:01.459
+Benoit Gambier: Y eu un blog de Kevin.
+
+77
+00:05:02.920 --> 00:05:04.200
+jean-luc lacaze: Oui Kevin.
+
+78
+00:05:04.790 --> 00:05:06.390
+kevin antunes: Moi, j'ignore
+
+79
+00:05:06.550 --> 00:05:08.210
+kevin antunes: élie Furschild.
+
+80
+00:05:10.070 --> 00:05:10.990
+jean-luc lacaze: Alors
+
+81
+00:05:11.530 --> 00:05:15.220
+jean-luc lacaze: ça fonctionne, mais ça fonctionne que pour accueil.
+
+82
+00:05:17.900 --> 00:05:21.889
+jean-luc lacaze: ça veut dire que quand tu vas être sur la page mes voyages.
+
+83
+00:05:22.260 --> 00:05:24.870
+jean-luc lacaze: c'est accueil qui se mettra en fait en gras.
+
+84
+00:05:25.430 --> 00:05:26.260
+kevin antunes: C'est-à-dire qu'on.
+
+85
+00:05:26.260 --> 00:05:29.560
+jean-luc lacaze: Ou alors faudra que tu failles une feuille de style différente
+
+86
+00:05:29.720 --> 00:05:32.210
+jean-luc lacaze: pour mes voyages et mettre
+
+87
+00:05:32.980 --> 00:05:34.840
+jean-luc lacaze: être autre chose.
+
+88
+00:05:38.310 --> 00:05:43.999
+jean-luc lacaze: L'avantage de la solution que je vous présente là, c'est qu'il y aura besoin d'avoir de retouche après sur
+
+89
+00:05:44.200 --> 00:05:45.580
+jean-luc lacaze: sur la feuille de style.
+
+90
+00:05:46.930 --> 00:05:47.490
+kevin antunes: C'est.
+
+91
+00:05:51.160 --> 00:05:52.090
+jean-luc lacaze: Alors.
+
+92
+00:05:52.530 --> 00:05:55.079
+jean-luc lacaze: alors vous voyez que sur la maquette.
+
+93
+00:05:56.990 --> 00:05:58.320
+jean-luc lacaze: le
+
+94
+00:05:59.960 --> 00:06:02.629
+jean-luc lacaze: le haideur passe par-dessus. En fait.
+
+95
+00:06:05.820 --> 00:06:08.099
+jean-luc lacaze: on le voit là au niveau du haut de la photo.
+
+96
+00:06:11.480 --> 00:06:13.620
+jean-luc lacaze: Alors ce que je vais faire.
+
+97
+00:06:14.740 --> 00:06:16.890
+Oumohand Yacine: Comment il passe par-dessus ai-je, pas compris.
+
+98
+00:06:17.100 --> 00:06:18.679
+Oumohand Yacine: il est au-dessus de la photo.
+
+99
+00:06:18.850 --> 00:06:20.330
+jean-luc lacaze: Ouais, regarde là
+
+100
+00:06:20.690 --> 00:06:21.960
+jean-luc lacaze: le de.
+
+101
+00:06:21.960 --> 00:06:22.420
+Oumohand Yacine: De la.
+
+102
+00:06:22.420 --> 00:06:24.789
+jean-luc lacaze: C'est la photo, on le voit sur les nuages.
+
+103
+00:06:25.630 --> 00:06:27.700
+jean-luc lacaze: si vous regardez ces nuages là
+
+104
+00:06:28.520 --> 00:06:30.530
+jean-luc lacaze: et ici, voilà,
+
+105
+00:06:31.140 --> 00:06:32.250
+jean-luc lacaze: on est décollé.
+
+106
+00:06:33.450 --> 00:06:37.799
+jean-luc lacaze: Alors, pour continuer, je vais juste mettre
+
+107
+00:06:38.340 --> 00:06:40.429
+jean-luc lacaze: entre commentaires fins
+
+108
+00:06:40.820 --> 00:06:42.009
+jean-luc lacaze: pour le moment.
+
+109
+00:06:50.250 --> 00:06:52.760
+jean-luc lacaze: alors ce qu'on va faire, c'est que
+
+110
+00:06:54.190 --> 00:06:57.349
+jean-luc lacaze: on va changer la position du
+
+111
+00:06:58.860 --> 00:07:00.390
+jean-luc lacaze: du Haider.
+
+112
+00:07:02.060 --> 00:07:05.010
+jean-luc lacaze: on va le faire là, position.
+
+113
+00:07:06.310 --> 00:07:08.890
+jean-luc lacaze: on va le mettre en absolut.
+
+114
+00:07:09.650 --> 00:07:14.310
+jean-luc lacaze: on le met, on le met en absolu tout en fixé.
+
+115
+00:07:15.840 --> 00:07:17.889
+Benoit Gambier: Alors regarde les instructions.
+
+116
+00:07:18.020 --> 00:07:18.599
+jean-luc lacaze: Alors que c'est.
+
+117
+00:07:19.330 --> 00:07:20.030
+Benoit Gambier: Merci
+
+118
+00:07:20.030 --> 00:07:23.479
+Benoit Gambier: à droite de l'image sur le Figarmacies.
+
+119
+00:07:23.680 --> 00:07:26.380
+Benoit Gambier: t'as une flèche qui parle du menu.
+
+120
+00:07:26.630 --> 00:07:27.630
+Abibata: On fixait.
+
+121
+00:07:28.110 --> 00:07:30.440
+jean-luc lacaze: X C. Ok, donc c'est
+
+122
+00:07:32.100 --> 00:07:32.970
+jean-luc lacaze: top.
+
+123
+00:07:33.330 --> 00:07:34.330
+jean-luc lacaze: C'est
+
+124
+00:07:39.880 --> 00:07:41.680
+jean-luc lacaze: et là, c'est le drame.
+
+125
+00:07:41.810 --> 00:07:42.760
+Benoit Gambier: Ha ha.
+
+126
+00:07:43.530 --> 00:07:44.520
+jean-luc lacaze: Alors
+
+127
+00:07:45.430 --> 00:07:48.879
+jean-luc lacaze: déjà le fond blanc, ça venait du body.
+
+128
+00:07:50.650 --> 00:07:56.310
+jean-luc lacaze: donc ça veut dire qu'on va devoir appliquer ici un patois incolore
+
+129
+00:07:58.100 --> 00:07:59.919
+jean-luc lacaze: de White
+
+130
+00:08:03.150 --> 00:08:03.940
+jean-luc lacaze: Hop.
+
+131
+00:08:05.170 --> 00:08:06.479
+jean-luc lacaze: C'est un peu mieux.
+
+132
+00:08:06.970 --> 00:08:12.569
+jean-luc lacaze: Ensuite, comme on a changé la position, on a perdu les dimensions.
+
+133
+00:08:13.770 --> 00:08:15.540
+jean-luc lacaze: donc on pourrait
+
+134
+00:08:16.440 --> 00:08:19.180
+jean-luc lacaze: on pourrait faire.
+
+135
+00:08:19.530 --> 00:08:20.580
+jean-luc lacaze: Top
+
+136
+00:08:20.800 --> 00:08:21.770
+jean-luc lacaze: zéro virgule
+
+137
+00:08:23.270 --> 00:08:24.550
+jean-luc lacaze: lève-t-on
+
+138
+00:08:24.730 --> 00:08:25.939
+jean-luc lacaze: 0,5
+
+139
+00:08:27.520 --> 00:08:30.039
+jean-luc lacaze: et un zéro.
+
+140
+00:08:35.220 --> 00:08:36.080
+jean-luc lacaze: Voilà,
+
+141
+00:08:39.230 --> 00:08:43.579
+jean-luc lacaze: mais si on laissait un peu de place, alors je sais que sur la maquette, c'est pas comme ça.
+
+142
+00:08:44.360 --> 00:08:45.700
+jean-luc lacaze: et euh.
+
+143
+00:08:47.680 --> 00:08:50.909
+jean-luc lacaze: on pourrait faire truc comme ça si je mets 15
+
+144
+00:08:51.260 --> 00:08:52.200
+jean-luc lacaze: c'est le
+
+145
+00:08:57.530 --> 00:08:58.560
+jean-luc lacaze: 15,
+
+146
+00:09:04.680 --> 00:09:06.059
+jean-luc lacaze: c'est pas mal, comme ça.
+
+147
+00:09:07.170 --> 00:09:11.149
+jean-luc lacaze: on alla la photo qui démarre
+
+148
+00:09:11.400 --> 00:09:12.390
+jean-luc lacaze: au-dessus
+
+149
+00:09:14.340 --> 00:09:17.140
+jean-luc lacaze: Est-ce que est-ce que est-ce que est-ce que vous êtes d'accord.
+
+150
+00:09:21.130 --> 00:09:22.729
+karim moumid: Oui, on veut.
+
+151
+00:09:22.730 --> 00:09:23.429
+jean-luc lacaze: Comme ça.
+
+152
+00:09:23.430 --> 00:09:24.050
+karim moumid: Avec Afp.
+
+153
+00:09:25.390 --> 00:09:26.540
+Abibata: C'est pas mal.
+
+154
+00:09:26.540 --> 00:09:28.029
+jean-luc lacaze: Qu'est-ce qu'en pense Benoît.
+
+155
+00:09:28.300 --> 00:09:29.220
+Benoit Gambier: Moi, ça me va.
+
+156
+00:09:30.140 --> 00:09:32.429
+jean-luc lacaze: Allez, ce sera ma petite touche personnelle.
+
+157
+00:09:32.430 --> 00:09:32.820
+jean-luc lacaze: c'est un
+
+158
+00:09:33.320 --> 00:09:34.250
+jean-luc lacaze: ah
+
+159
+00:09:34.910 --> 00:09:35.760
+jean-luc lacaze: non.
+
+160
+00:09:36.350 --> 00:09:38.930
+jean-luc lacaze: alors après on va s'occuper de la photo.
+
+161
+00:09:39.910 --> 00:09:46.550
+jean-luc lacaze: Les consignes. Les consignes sur la photo sont: de ce côté,
+
+162
+00:09:46.960 --> 00:09:51.049
+jean-luc lacaze: l'image s'arrête pile en bas de l'écran.
+
+163
+00:09:53.250 --> 00:09:55.420
+jean-luc lacaze: donc on est dans une section
+
+164
+00:09:56.650 --> 00:09:57.800
+jean-luc lacaze: Europe.
+
+165
+00:10:01.990 --> 00:10:04.349
+jean-luc lacaze: on va créer notre section
+
+166
+00:10:06.120 --> 00:10:08.610
+jean-luc lacaze: héros. On pourrait même faire
+
+167
+00:10:11.550 --> 00:10:12.750
+jean-luc lacaze: héros.
+
+168
+00:10:15.490 --> 00:10:16.960
+jean-luc lacaze: alors
+
+169
+00:10:17.070 --> 00:10:19.620
+jean-luc lacaze: on va ouvrir notre inspecteur.
+
+170
+00:10:26.720 --> 00:10:27.810
+jean-luc lacaze: Développement
+
+171
+00:10:28.750 --> 00:10:31.230
+jean-luc lacaze: le poids de margin, pas de padding
+
+172
+00:10:31.650 --> 00:10:32.610
+jean-luc lacaze: Ok.
+
+173
+00:10:32.760 --> 00:10:34.419
+jean-luc lacaze: donc notre image
+
+174
+00:10:40.610 --> 00:10:42.039
+jean-luc lacaze: on va lui donner
+
+175
+00:10:43.940 --> 00:10:45.460
+jean-luc lacaze: une largeur un
+
+176
+00:10:45.660 --> 00:10:46.960
+jean-luc lacaze: à 100 pour 100,
+
+177
+00:10:53.000 --> 00:10:54.490
+jean-luc lacaze: une hauteur
+
+178
+00:10:56.610 --> 00:10:57.909
+jean-luc lacaze: 100 pour 100.
+
+179
+00:11:03.730 --> 00:11:07.069
+Oumohand Yacine: Ça, c'est pour qu'elles prennent tout l'écran. C'est ça.
+
+180
+00:11:08.350 --> 00:11:10.460
+jean-luc lacaze: Ouais, mais vous voyez que
+
+181
+00:11:13.400 --> 00:11:16.380
+jean-luc lacaze: ça ça a pas très bien fonctionné,
+
+182
+00:11:19.660 --> 00:11:25.380
+jean-luc lacaze: c'est peut-être parce que mon héros, il faut aussi que je lui donne une taille.
+
+183
+00:11:37.730 --> 00:11:40.309
+jean-luc lacaze: euh, c'est peut-être parce qu'il faut être.
+
+184
+00:11:45.630 --> 00:11:47.000
+jean-luc lacaze: voilà, c'est mieux.
+
+185
+00:11:50.590 --> 00:11:54.319
+jean-luc lacaze: donc là. On répond pratiquement à la demande.
+
+186
+00:11:55.110 --> 00:11:58.499
+jean-luc lacaze: C'est juste qu'on a une image qui est complètement déformée.
+
+187
+00:11:59.910 --> 00:12:07.239
+jean-luc lacaze: alors c'est normal, hein, parce que j'ai dit: L'image a fait 100 pour 100 sur l'horizontale et sur la verticale
+
+188
+00:12:08.540 --> 00:12:11.400
+jean-luc lacaze: et pour corriger ceci.
+
+189
+00:12:12.160 --> 00:12:13.929
+Benoit Gambier: Il y a Kevin qui a enveloppé.
+
+190
+00:12:13.930 --> 00:12:15.030
+jean-luc lacaze: Kevin.
+
+191
+00:12:15.700 --> 00:12:25.109
+kevin antunes: Juste par acquis de conscience si on aurait mis 100 Vh dans image directement à la place des 100 pour 100 dans Rail ça marque aussi.
+
+192
+00:12:26.220 --> 00:12:27.810
+jean-luc lacaze: Je pense
+
+193
+00:12:27.960 --> 00:12:30.510
+jean-luc lacaze: les images, on a plutôt eu tu vois.
+
+194
+00:12:30.770 --> 00:12:33.940
+jean-luc lacaze: mais les images, on va plutôt les gérer en pourcentage.
+
+195
+00:12:35.040 --> 00:12:40.060
+Benoit Gambier: Il faut savoir que le Ace 100 pour 100 ne fonctionne que dans le cas où
+
+196
+00:12:40.410 --> 00:12:44.949
+Benoit Gambier: un des parents, au moins à une hauteur fixée
+
+197
+00:12:45.370 --> 00:12:53.029
+Benoit Gambier: en une unité comment calculable 100 pour 100 de de de d'un truc
+
+198
+00:12:53.220 --> 00:12:55.440
+Benoit Gambier: inexistant, C'est inexistant.
+
+199
+00:12:55.550 --> 00:13:00.389
+Benoit Gambier: Par contre, le parent héros, il a sa hauteur à 100 Vh.
+
+200
+00:13:00.530 --> 00:13:03.570
+Benoit Gambier: donc si on met 100 pour 100, ça fait 100 pour 100 100 vh.
+
+201
+00:13:04.000 --> 00:13:05.330
+Benoit Gambier: là, c'est calculable.
+
+202
+00:13:06.010 --> 00:13:10.790
+Benoit Gambier: donc vous allez remarquer de temps en temps dans votre code que ait 100 pour 100, ça marchera pas.
+
+203
+00:13:11.810 --> 00:13:16.309
+Benoit Gambier: parce que le vous n'avez pas de parent qui a une hauteur fixée.
+
+204
+00:13:19.730 --> 00:13:22.210
+Benoit Gambier: mais elle est toujours déformée. Ta photo.
+
+205
+00:13:22.210 --> 00:13:24.099
+jean-luc lacaze: Oui, effectivement.
+
+206
+00:13:24.780 --> 00:13:26.810
+jean-luc lacaze: est-ce que quelqu'un aurait la solution.
+
+207
+00:13:29.120 --> 00:13:31.810
+da silva cédric: Faire la même manip pour
+
+208
+00:13:32.520 --> 00:13:35.450
+da silva cédric: pour le parent, du coup au niveau de la largeur.
+
+209
+00:13:37.970 --> 00:13:40.560
+Helias Aper: Là, tu veux que je mette quelque chose comme ça.
+
+210
+00:13:42.760 --> 00:13:45.210
+jean-luc lacaze: Style Sans V.
+
+211
+00:13:45.210 --> 00:13:45.990
+da silva cédric: Mm mmh.
+
+212
+00:13:47.230 --> 00:13:49.360
+jean-luc lacaze: Ça n'a pas d'impact.
+
+213
+00:13:49.360 --> 00:13:49.869
+da silva cédric: Pas du tout ce que.
+
+214
+00:13:49.870 --> 00:13:54.179
+Anaïs Maxime: On peut pas mettre Max Wind Max de 100 pour 100.
+
+215
+00:13:55.440 --> 00:13:57.610
+Anaïs Maxime: Ceci une erreur.
+
+216
+00:13:57.610 --> 00:14:00.069
+jean-luc lacaze: Là, il est ici là. Ligne Saint-quentin.
+
+217
+00:14:00.290 --> 00:14:01.439
+Anaïs Maxime: Oui dans l'image
+
+218
+00:14:05.510 --> 00:14:07.039
+Anaïs Maxime: Ouais, c'est pareil. Ouais.
+
+219
+00:14:07.040 --> 00:14:07.929
+jean-luc lacaze: Bien tenté.
+
+220
+00:14:08.230 --> 00:14:09.800
+Helias Aper: À spéctation.
+
+221
+00:14:11.900 --> 00:14:12.690
+jean-luc lacaze: Comment.
+
+222
+00:14:13.200 --> 00:14:14.939
+Helias Aper: Aspecte ratio dans image
+
+223
+00:14:15.410 --> 00:14:16.330
+Helias Aper: par les Etats Unis.
+
+224
+00:14:19.290 --> 00:14:20.040
+jean-luc lacaze: Aspects.
+
+225
+00:14:20.040 --> 00:14:20.579
+da silva cédric: Ce que.
+
+226
+00:14:20.900 --> 00:14:23.289
+jean-luc lacaze: Expectation. Je connaissais pas.
+
+227
+00:14:23.290 --> 00:14:25.239
+Benoit Gambier: Tu ne connaissais pas, Ah, c'est bien pratique.
+
+228
+00:14:25.540 --> 00:14:27.099
+jean-luc lacaze: Et qu'est-ce que je mets là.
+
+229
+00:14:30.680 --> 00:14:34.240
+Helias Aper: Si on met un slash un, ça va faire un carré.
+
+230
+00:14:35.470 --> 00:14:37.010
+jean-luc lacaze: Mmh.
+
+231
+00:14:37.210 --> 00:14:39.939
+Benoit Gambier: Alors avec des espaces autour du slash, sinon ça ne marchera pas.
+
+232
+00:14:45.700 --> 00:14:46.619
+Benoit Gambier: ça change rien.
+
+233
+00:14:46.790 --> 00:14:47.900
+jean-luc lacaze: Ça change rien.
+
+234
+00:14:50.980 --> 00:14:54.740
+Benoit Gambier: Alors qu'est-ce, qui te dit qu'il faut un carré Elias? Parce que si l'écran est.
+
+235
+00:14:54.740 --> 00:14:58.180
+Helias Aper: Exactement, je dis un point un un slash un ça va pas passer parce que ça fait un carré.
+
+236
+00:14:58.930 --> 00:15:17.160
+Benoit Gambier: Mais ça ne changera rien là là. En l'occurrence, on a mis un oui, c'est un Ice à 100 pour 100, donc l'aspect ratio, Il sert à rien. Donc, pour ta gouverne, Jean. Luc Aspect ratio te permet de définir, par exemple, que l'image doit avoir un aspect à 16 neuvième en ne déclarant que l'une des deux dimensions.
+
+237
+00:15:17.160 --> 00:15:18.550
+jean-luc lacaze: D'accord, ok.
+
+238
+00:15:18.780 --> 00:15:19.270
+Benoit Gambier: C'est.
+
+239
+00:15:19.680 --> 00:15:25.859
+jean-luc lacaze: Si ça ne peut pas fonctionner, parce qu'en fait, si je le redimensionne, je peux avoir plusieurs ratios différents. En fait.
+
+240
+00:15:26.000 --> 00:15:28.389
+Morvin Quernel: Et si on met objectif.
+
+241
+00:15:30.140 --> 00:15:31.809
+jean-luc lacaze: C'est une bonne piste, ça.
+
+242
+00:15:33.130 --> 00:15:33.790
+Morvin Quernel: Il y.
+
+243
+00:15:37.730 --> 00:15:38.919
+jean-luc lacaze: Et là je mets quoi.
+
+244
+00:15:38.920 --> 00:15:39.710
+Morvin Quernel: Couvert de.
+
+245
+00:15:46.910 --> 00:15:48.000
+jean-luc lacaze: Alors c'est mieux.
+
+246
+00:15:49.630 --> 00:15:55.259
+Morvin Quernel: Et c'est tout là, c'est mieux, ce n'est pas déformé, si tu agrandis, voilà
+
+247
+00:15:58.010 --> 00:15:59.660
+Morvin Quernel: pour ça, parce que.
+
+248
+00:16:00.170 --> 00:16:01.620
+jean-luc lacaze: Je fais ça.
+
+249
+00:16:05.880 --> 00:16:11.720
+jean-luc lacaze: ouais ça a l'air de fonctionner après il y avait Phil, aussi je pense qu'il pouvait
+
+250
+00:16:11.980 --> 00:16:13.049
+jean-luc lacaze: tu pouvais le faire.
+
+251
+00:16:19.830 --> 00:16:20.930
+Morvin Quernel: C'est différent.
+
+252
+00:16:21.510 --> 00:16:28.330
+Benoit Gambier: Fil, c'est la valeur par défaut, c'est à dire que il remplit, Il faut qu'on voit toute l'image.
+
+253
+00:16:28.590 --> 00:16:29.180
+jean-luc lacaze: Ouais.
+
+254
+00:16:30.460 --> 00:16:36.150
+Benoit Gambier: Il y a contain et il y a cover
+
+255
+00:16:36.800 --> 00:16:41.220
+Benoit Gambier: contain. C'est on veut que toute l'image soit contenue dans la zone
+
+256
+00:16:42.880 --> 00:16:45.230
+Benoit Gambier: et donc on veut voir toute l'image.
+
+257
+00:16:46.510 --> 00:16:51.819
+Benoit Gambier: donc ça veut dire qu'il ne va pas la déformer, mais si l'image ne fait pas la même dimension que l'écran.
+
+258
+00:16:52.874 --> 00:17:01.489
+Benoit Gambier: on va avoir des bandes un peu comme une télé aujourd'hui, si vous regardez un film un vieux film en quatre tiers. Vous avez des bandes noires sur les côtés.
+
+259
+00:17:01.880 --> 00:17:07.360
+Benoit Gambier: Là, c'est pareil s'il va faire en sorte qu'on voit toute l'image.
+
+260
+00:17:07.530 --> 00:17:14.790
+Benoit Gambier: et il va mettre des bandes blanches ou enfin des bandes qui vont être de la couleur de fond en fait du parent
+
+261
+00:17:14.910 --> 00:17:19.420
+Benoit Gambier: pour remplir tout ce qui tout ce qui est manquant
+
+262
+00:17:20.579 --> 00:17:26.970
+Benoit Gambier: cover, c'est le contraire, il va faire en sorte de remplir avec l'image toute la zone sans la déformer.
+
+263
+00:17:27.130 --> 00:17:29.219
+Benoit Gambier: et donc il va couper
+
+264
+00:17:30.510 --> 00:17:31.310
+Benoit Gambier: des boues.
+
+265
+00:17:33.000 --> 00:17:37.079
+Benoit Gambier: donc il va là, si on est, comme c'est une image 16 neuvième.
+
+266
+00:17:37.370 --> 00:17:42.130
+Benoit Gambier: Si on est sur quelque chose de moins que 16 neuvième, il va couper les côtés.
+
+267
+00:17:42.970 --> 00:17:49.070
+Benoit Gambier: et si on est quelque chose qui est plus grand que 16 neuvième plus large. bien, il va couper en haut et en bas automatiquement.
+
+268
+00:17:52.100 --> 00:17:58.470
+Benoit Gambier: Donc Object feat. C'est une. C'est une propriété qui est très pratique pour faire remplir une zone
+
+269
+00:18:00.000 --> 00:18:02.910
+Benoit Gambier: avec une image sans déformer l'image.
+
+270
+00:18:04.170 --> 00:18:05.370
+Benoit Gambier: alors attention.
+
+271
+00:18:06.340 --> 00:18:13.830
+Benoit Gambier: elles ne fonctionne que si on a donné une dimension de hauteur et de largeur, c'est pour ça qu'on a mis Wiss et Ace à 100 pour 100 tous les deux
+
+272
+00:18:17.120 --> 00:18:18.440
+Benoit Gambier: Monsieur.
+
+273
+00:18:21.090 --> 00:18:23.539
+jean-luc lacaze: Alors il nous reste à placer
+
+274
+00:18:24.580 --> 00:18:26.050
+jean-luc lacaze: cette partie
+
+275
+00:18:27.830 --> 00:18:28.920
+jean-luc lacaze: Hmm.
+
+276
+00:18:29.910 --> 00:18:32.790
+jean-luc lacaze: donc je l'avais mis entre commentaires.
+
+277
+00:18:33.810 --> 00:18:37.990
+jean-luc lacaze: et c'est là que je vais devoir rajouter quelque chose.
+
+278
+00:18:39.180 --> 00:18:41.220
+Benoit Gambier: Dans mon Html.
+
+279
+00:18:43.370 --> 00:18:47.550
+jean-luc lacaze: Donc ça s'est mis, je sais même pas où ça s'est mis
+
+280
+00:18:48.090 --> 00:18:49.120
+jean-luc lacaze: ainsi, cela.
+
+281
+00:18:49.860 --> 00:18:50.549
+jean-luc lacaze: c'est ce qu'il y a.
+
+282
+00:18:51.640 --> 00:18:55.229
+jean-luc lacaze: alors Si on regarde la maquette, on voit qu'on a
+
+283
+00:18:55.530 --> 00:18:56.940
+jean-luc lacaze: un fond
+
+284
+00:18:57.640 --> 00:18:59.000
+jean-luc lacaze: transparent
+
+285
+00:19:00.150 --> 00:19:02.229
+jean-luc lacaze: qui va être le même.
+
+286
+00:19:04.160 --> 00:19:05.930
+jean-luc lacaze: donc c'est pour ça que
+
+287
+00:19:06.200 --> 00:19:07.600
+jean-luc lacaze: je vais
+
+288
+00:19:08.290 --> 00:19:09.770
+jean-luc lacaze: englobait
+
+289
+00:19:10.130 --> 00:19:12.269
+jean-luc lacaze: le H un et le P
+
+290
+00:19:13.120 --> 00:19:15.290
+jean-luc lacaze: dans une balise.
+
+291
+00:19:15.420 --> 00:19:16.900
+jean-luc lacaze: Ouais, mais tu me le dire.
+
+292
+00:19:21.860 --> 00:19:25.669
+jean-luc lacaze: et vous voyez que je rajoute une dive, mais c'est pour la mise en pharon.
+
+293
+00:19:26.310 --> 00:19:30.299
+jean-luc lacaze: ça veut dire qu'elle n'a aucune valeur au niveau de la sémantique.
+
+294
+00:19:43.250 --> 00:19:45.589
+jean-luc lacaze: Ah, bon pour le moment, ça change pas grand chose.
+
+295
+00:19:46.680 --> 00:19:47.740
+jean-luc lacaze: donc
+
+296
+00:19:48.190 --> 00:19:50.070
+jean-luc lacaze: on va être là,
+
+297
+00:19:51.310 --> 00:19:53.009
+jean-luc lacaze: donc notre Divin.
+
+298
+00:19:55.550 --> 00:19:56.380
+jean-luc lacaze: le Maître
+
+299
+00:20:01.480 --> 00:20:02.940
+jean-luc lacaze: en position
+
+300
+00:20:04.070 --> 00:20:05.290
+jean-luc lacaze: absolut.
+
+301
+00:20:17.660 --> 00:20:19.770
+jean-luc lacaze: alors on va centrer tout ça
+
+302
+00:20:20.680 --> 00:20:22.840
+jean-luc lacaze: va lui dire: Top
+
+303
+00:20:25.470 --> 00:20:27.239
+jean-luc lacaze: 50 pour 100
+
+304
+00:20:29.610 --> 00:20:30.920
+jean-luc lacaze: lefte
+
+305
+00:20:33.050 --> 00:20:34.430
+jean-luc lacaze: suis arrivé
+
+306
+00:20:34.630 --> 00:20:36.350
+jean-luc lacaze: 50 pour 100
+
+307
+00:20:41.690 --> 00:20:46.280
+jean-luc lacaze: et après, on va utiliser un translate
+
+308
+00:20:50.010 --> 00:20:51.640
+jean-luc lacaze: translate.
+
+309
+00:20:53.820 --> 00:20:55.999
+jean-luc lacaze: alors quand ça marche, translate t'adore.
+
+310
+00:20:59.560 --> 00:21:00.310
+Benoit Gambier: On se forme.
+
+311
+00:21:00.670 --> 00:21:01.970
+jean-luc lacaze: Ah, oui, transforme.
+
+312
+00:21:03.340 --> 00:21:04.600
+Benoit Gambier: Les quatre lignes magiques
+
+313
+00:21:05.680 --> 00:21:06.430
+Benoit Gambier: Hm.
+
+314
+00:21:06.750 --> 00:21:09.890
+jean-luc lacaze: Transforme un Translate X.
+
+315
+00:21:14.140 --> 00:21:17.700
+jean-luc lacaze: On peut le faire dans la mer. Il me semble.
+
+316
+00:21:19.810 --> 00:21:23.640
+Benoit Gambier: Ouais, ouais, tu mets, tu mets. Première valeur deuxième valeur.
+
+317
+00:21:23.860 --> 00:21:26.129
+jean-luc lacaze: 50 pour 100
+
+318
+00:21:28.560 --> 00:21:29.570
+jean-luc lacaze: et
+
+319
+00:21:29.760 --> 00:21:30.640
+jean-luc lacaze: Ouais.
+
+320
+00:21:31.420 --> 00:21:33.020
+jean-luc lacaze: 50 pour 100.
+
+321
+00:21:37.690 --> 00:21:40.479
+Oumohand Yacine: Espace entre le virgule et le moi.
+
+322
+00:21:41.340 --> 00:21:42.030
+Benoit Gambier: Avec Afp.
+
+323
+00:21:43.390 --> 00:21:44.140
+jean-luc lacaze: Au moment.
+
+324
+00:21:44.370 --> 00:21:46.380
+Oumohand Yacine: Moins 50 pour 100. Il n'y a pas d'espace.
+
+325
+00:21:46.760 --> 00:21:49.950
+Benoit Gambier: Non, il y a la virgule, donc les
+
+326
+00:21:49.950 --> 00:21:58.279
+Benoit Gambier: les espaces là, ce n'est pas utile, moi, j'en mets toujours un après la virgule, mais c'est juste pour de pour de la l'habitude et de la lecture.
+
+327
+00:22:00.440 --> 00:22:01.350
+Oumohand Yacine: Ok.
+
+328
+00:22:01.640 --> 00:22:03.620
+jean-luc lacaze: Alors ça, c'est super puissant.
+
+329
+00:22:04.250 --> 00:22:09.269
+jean-luc lacaze: Avant avant qu'on puisse faire ça.
+
+330
+00:22:09.620 --> 00:22:11.820
+jean-luc lacaze: il n'y avait plus de lignes quand même
+
+331
+00:22:12.170 --> 00:22:14.870
+jean-luc lacaze: et on joue avec les marges.
+
+332
+00:22:15.639 --> 00:22:16.409
+Benoit Gambier: oui.
+
+333
+00:22:17.210 --> 00:22:19.560
+jean-luc lacaze: En plus ça calcule tout seul.
+
+334
+00:22:20.250 --> 00:22:22.779
+jean-luc lacaze: Ah! Alors.
+
+335
+00:22:22.780 --> 00:22:26.310
+Oumohand Yacine: C'est pour centrer le texte dans une image.
+
+336
+00:22:26.890 --> 00:22:29.449
+jean-luc lacaze: On a centré en fait
+
+337
+00:22:30.730 --> 00:22:32.740
+jean-luc lacaze: dans la page pour le moment.
+
+338
+00:22:35.100 --> 00:22:41.280
+jean-luc lacaze: alors vu que notre image, elle occupe exactement la taille de l'écran.
+
+339
+00:22:43.620 --> 00:22:48.250
+jean-luc lacaze: Finalement, c'est centré sur l'image et c'est aussi centré sur l'écran.
+
+340
+00:22:49.470 --> 00:22:50.200
+Oumohand Yacine: Ok.
+
+341
+00:22:52.090 --> 00:22:57.230
+jean-luc lacaze: Dans un autre contexte, on aurait peut-être eu besoin de mettre en position relative
+
+342
+00:22:58.020 --> 00:23:00.960
+jean-luc lacaze: sur le parent.
+
+343
+00:23:02.350 --> 00:23:03.850
+Oumohand Yacine: L'europe et.
+
+344
+00:23:03.850 --> 00:23:05.589
+jean-luc lacaze: Gros et
+
+345
+00:23:06.470 --> 00:23:09.699
+jean-luc lacaze: et on aurait joué, on aurait placé
+
+346
+00:23:10.000 --> 00:23:15.440
+jean-luc lacaze: notre dive en fonction de Hiro, il a comme Hiro démare
+
+347
+00:23:15.810 --> 00:23:17.129
+jean-luc lacaze: en haut de l'écran.
+
+348
+00:23:17.970 --> 00:23:19.100
+jean-luc lacaze: Ça pas lieu d'être.
+
+349
+00:23:20.380 --> 00:23:22.550
+jean-luc lacaze: Ensuite, on une couleur de fond.
+
+350
+00:23:22.880 --> 00:23:24.540
+jean-luc lacaze: cette couleur de fond.
+
+351
+00:23:24.540 --> 00:23:25.640
+Benoit Gambier: Question d'anaises.
+
+352
+00:23:26.190 --> 00:23:27.150
+jean-luc lacaze: A Analyses.
+
+353
+00:23:27.150 --> 00:23:27.719
+Benoit Gambier: Tu les.
+
+354
+00:23:27.720 --> 00:23:40.790
+Anaïs Maxime: Oui, j'ai une petite question Jean-luc, comment on fait pour si on veut que l'image arrive en bas de la page. Mais que le header prenne toute la longueur.
+
+355
+00:23:41.300 --> 00:23:47.110
+Anaïs Maxime: c'est juste les margins ou les paddings qui doivent être les margings à zéro ou.
+
+356
+00:23:47.110 --> 00:23:55.530
+jean-luc lacaze: Là là tu mets, non, non, c'est des top, lève tes rites que tu mets sur zéro.
+
+357
+00:23:56.540 --> 00:23:59.479
+Anaïs Maxime: Ok et ça va adapter l'image après en fonction.
+
+358
+00:24:00.080 --> 00:24:03.449
+jean-luc lacaze: Alors on parle de header, on parle pas de l'image.
+
+359
+00:24:04.330 --> 00:24:10.209
+Anaïs Maxime: Oui Enfin, pour que le header soit vraiment avant l'image qui va, elle jusqu'en bas de l'écran.
+
+360
+00:24:10.820 --> 00:24:12.890
+jean-luc lacaze: Ah, tu veux la placer avant.
+
+361
+00:24:13.660 --> 00:24:14.270
+jean-luc lacaze: mais c'est.
+
+362
+00:24:14.440 --> 00:24:15.490
+Anaïs Maxime: Enfin elle.
+
+363
+00:24:15.490 --> 00:24:15.850
+Oumohand Yacine: Dans les.
+
+364
+00:24:15.850 --> 00:24:17.050
+Anaïs Maxime: L'image
+
+365
+00:24:17.050 --> 00:24:19.160
+Anaïs Maxime: sur l'image veut dire
+
+366
+00:24:19.590 --> 00:24:23.919
+Anaïs Maxime: non, non, mais que le heider, il prenne toute la longueur et qu'on voit pas l'image derrière. En fait.
+
+367
+00:24:23.920 --> 00:24:26.830
+jean-luc lacaze: Tu mets zéro sur Top lève tes rights.
+
+368
+00:24:27.170 --> 00:24:28.440
+Anaïs Maxime: Ok, c'est tout.
+
+369
+00:24:28.690 --> 00:24:29.370
+Benoit Gambier: Oui.
+
+370
+00:24:29.500 --> 00:24:31.139
+Anaïs Maxime: D'accord, super merci.
+
+371
+00:24:31.140 --> 00:24:38.139
+jean-luc lacaze: Et après. Si le header vous voulez le mettre tout en bas, vous mettez Botome zéro au lieu de top zéro.
+
+372
+00:24:41.070 --> 00:24:44.099
+Oumohand Yacine: Là, il n'a pas encore pris tout le climat et toute la largeur.
+
+373
+00:24:44.770 --> 00:24:45.469
+Oumohand Yacine: Jean-luc Mélenchon.
+
+374
+00:24:46.230 --> 00:24:49.260
+jean-luc lacaze: Alors non, je me suis permis
+
+375
+00:24:49.770 --> 00:24:55.339
+jean-luc lacaze: une petite modification graphique, je trouvais que, pour mettre en valeur l'image.
+
+376
+00:24:55.820 --> 00:24:56.990
+jean-luc lacaze: j'allais.
+
+377
+00:24:56.990 --> 00:24:57.850
+Oumohand Yacine: Qu'est-ce Qu'est-ce que.
+
+378
+00:24:57.850 --> 00:25:00.300
+jean-luc lacaze: Un peu de place autour.
+
+379
+00:25:00.460 --> 00:25:01.749
+Oumohand Yacine: Comment t'as fait t'as fait un
+
+380
+00:25:02.060 --> 00:25:02.960
+Oumohand Yacine: un padding.
+
+381
+00:25:03.140 --> 00:25:06.730
+jean-luc lacaze: Non, j'ai joué sur left Trite et Top.
+
+382
+00:25:07.170 --> 00:25:07.920
+Oumohand Yacine: Ah, d'accord.
+
+383
+00:25:07.920 --> 00:25:09.090
+jean-luc lacaze: Un Splexel
+
+384
+00:25:09.990 --> 00:25:16.219
+jean-luc lacaze: après vous avez un padding aussi dans le header, mais c'est l'espace intérieur.
+
+385
+00:25:16.220 --> 00:25:16.820
+Oumohand Yacine: Ok.
+
+386
+00:25:17.000 --> 00:25:18.440
+jean-luc lacaze: Que vous retrouvez là
+
+387
+00:25:19.190 --> 00:25:20.160
+jean-luc lacaze: et là.
+
+388
+00:25:23.390 --> 00:25:24.840
+kevin antunes: Alors c'est joli.
+
+389
+00:25:25.960 --> 00:25:27.859
+jean-luc lacaze: J'aime bien aussi
+
+390
+00:25:28.840 --> 00:25:31.080
+jean-luc lacaze: alors la couleur de fond
+
+391
+00:25:32.010 --> 00:25:34.110
+jean-luc lacaze: quand je sélectionne sur Figma.
+
+392
+00:25:35.120 --> 00:25:38.740
+jean-luc lacaze: alors par défaut, vous ce que vous avez, c'était ça.
+
+393
+00:25:39.460 --> 00:25:44.360
+jean-luc lacaze: donc on voit qu'on a un gris avec une opacité
+
+394
+00:25:47.620 --> 00:25:49.490
+jean-luc lacaze: et s'il vous
+
+395
+00:25:49.840 --> 00:25:53.769
+jean-luc lacaze: convertissez en Rgb.
+
+396
+00:25:55.330 --> 00:25:56.690
+jean-luc lacaze: on a cette valeur
+
+397
+00:25:56.840 --> 00:25:59.090
+jean-luc lacaze: qui est aussi comprise
+
+398
+00:26:00.430 --> 00:26:06.110
+jean-luc lacaze: par le navigateur et qui va intégrer cette notion d'opacité.
+
+399
+00:26:08.960 --> 00:26:13.350
+jean-luc lacaze: Alors je vais faire la démonstration hop, je vais être là
+
+400
+00:26:13.840 --> 00:26:15.400
+jean-luc lacaze: Burground Color
+
+401
+00:26:19.370 --> 00:26:20.090
+jean-luc lacaze: et que
+
+402
+00:26:21.770 --> 00:26:22.889
+jean-luc lacaze: voyez que
+
+403
+00:26:25.630 --> 00:26:33.730
+jean-luc lacaze: on est pas mal, on a bien notre transparence, alors la transparence, elle est juste sur le fond, elle l'est pas sur le titre.
+
+404
+00:26:36.980 --> 00:26:39.199
+jean-luc lacaze: ensuite le titre est blanc
+
+405
+00:26:43.580 --> 00:26:44.580
+jean-luc lacaze: ou alors
+
+406
+00:26:46.180 --> 00:26:47.410
+jean-luc lacaze: White.
+
+407
+00:26:52.370 --> 00:26:55.720
+jean-luc lacaze: j'ai l'impression que tout est centré.
+
+408
+00:27:01.040 --> 00:27:03.210
+jean-luc lacaze: Texte alinéa
+
+409
+00:27:03.510 --> 00:27:04.780
+jean-luc lacaze: Center
+
+410
+00:27:09.410 --> 00:27:11.360
+jean-luc lacaze: on un peu Padding
+
+411
+00:27:22.270 --> 00:27:24.270
+jean-luc lacaze: utiliser in Line
+
+412
+00:27:25.550 --> 00:27:27.100
+jean-luc lacaze: 80
+
+413
+00:27:27.240 --> 00:27:28.310
+jean-luc lacaze: fell.
+
+414
+00:27:32.200 --> 00:27:34.289
+jean-luc lacaze: J'ai l'impression qu'il y en a un peu plus.
+
+415
+00:27:39.390 --> 00:27:40.330
+jean-luc lacaze: c'est
+
+416
+00:27:44.310 --> 00:27:46.600
+jean-luc lacaze: on a été un peu trop généreux
+
+417
+00:27:47.710 --> 00:27:48.560
+jean-luc lacaze: Hop
+
+418
+00:27:50.020 --> 00:27:51.070
+jean-luc lacaze: 26,
+
+419
+00:27:53.020 --> 00:27:55.880
+jean-luc lacaze: ça devrait le faire ensuite.
+
+420
+00:27:56.840 --> 00:27:59.580
+jean-luc lacaze: Il y a les graisses qui changent un peu.
+
+421
+00:28:02.410 --> 00:28:05.510
+jean-luc lacaze: donc dans la dive, on a notre h un
+
+422
+00:28:11.330 --> 00:28:12.559
+jean-luc lacaze: en toi, et toi
+
+423
+00:28:14.110 --> 00:28:15.560
+jean-luc lacaze: 600
+
+424
+00:28:21.670 --> 00:28:23.760
+jean-luc lacaze: ça fait quoi?
+
+425
+00:28:28.250 --> 00:28:30.330
+jean-luc lacaze: Si vous voulez un h un ouais
+
+426
+00:28:32.500 --> 00:28:33.430
+jean-luc lacaze: et.
+
+427
+00:28:33.430 --> 00:28:36.070
+Oumohand Yacine: Ça changé, ça changé pas grand chose.
+
+428
+00:28:36.070 --> 00:28:37.700
+jean-luc lacaze: Ouais, ça peut être.
+
+429
+00:28:37.700 --> 00:28:38.780
+Oumohand Yacine: D'augmenter ou.
+
+430
+00:28:39.410 --> 00:28:40.530
+jean-luc lacaze: Là, c'est mieux là
+
+431
+00:28:44.130 --> 00:28:45.540
+jean-luc lacaze: et le p.
+
+432
+00:28:46.680 --> 00:28:49.860
+jean-luc lacaze: On est sur quelque chose de fun.
+
+433
+00:28:54.210 --> 00:28:56.109
+jean-luc lacaze: on va essayer 200
+
+434
+00:29:04.190 --> 00:29:06.330
+jean-luc lacaze: même sans être.
+
+435
+00:29:13.020 --> 00:29:14.280
+jean-luc lacaze: on a aussi
+
+436
+00:29:15.210 --> 00:29:16.800
+jean-luc lacaze: française
+
+437
+00:29:29.940 --> 00:29:30.690
+jean-luc lacaze: Hm
+
+438
+00:29:34.490 --> 00:29:38.120
+jean-luc lacaze: et après il va nous rester ceci.
+
+439
+00:29:39.270 --> 00:29:41.240
+jean-luc lacaze: donc si on regarde, on a
+
+440
+00:29:41.590 --> 00:29:43.140
+jean-luc lacaze: un padding.
+
+441
+00:29:51.700 --> 00:29:53.880
+jean-luc lacaze: on va peut-être se mettre un paragraphe.
+
+442
+00:29:56.180 --> 00:29:56.860
+Benoit Gambier: Pourquoi pas.
+
+443
+00:30:20.520 --> 00:30:21.400
+jean-luc lacaze: Alors
+
+444
+00:30:25.310 --> 00:30:27.380
+jean-luc lacaze: donc on est sur une section.
+
+445
+00:30:28.680 --> 00:30:30.439
+jean-luc lacaze: mais cette section
+
+446
+00:30:31.730 --> 00:30:33.049
+jean-luc lacaze: n'est pas
+
+447
+00:30:38.370 --> 00:30:39.730
+jean-luc lacaze: point zéro. Hero.
+
+448
+00:30:40.690 --> 00:30:43.270
+jean-luc lacaze: Je me rappelle plus comme ça qu'on l'écrit.
+
+449
+00:30:46.000 --> 00:30:53.199
+Benoit Gambier: Demande à Kévin. Il n'a qu'une hâte, c'est de pouvoir utiliser le note.
+
+450
+00:30:53.440 --> 00:30:59.139
+jean-luc lacaze: Vas-y, dis, moi, Kévin, je veux identifier la section qui n'est pas Hiro.
+
+451
+00:31:00.400 --> 00:31:08.160
+kevin antunes: Alors justement je suis en galère avec eux. Notes: Moi, j'arrive à les identifier, mais alors leur dire: Non.
+
+452
+00:31:09.390 --> 00:31:11.699
+Benoit Gambier: Pas héros, c'est ça que tu veux faire.
+
+453
+00:31:11.700 --> 00:31:12.620
+kevin antunes: Ouais.
+
+454
+00:31:18.510 --> 00:31:19.820
+Benoit Gambier: Demandez à Balavoine.
+
+455
+00:31:23.670 --> 00:31:24.640
+jean-luc lacaze: C'est.
+
+456
+00:31:24.640 --> 00:31:26.660
+Benoit Gambier: Ok, elle est pourrie. Désolé.
+
+457
+00:31:27.940 --> 00:31:30.030
+jean-luc lacaze: A que moi qui ai compris, je crois.
+
+458
+00:31:30.180 --> 00:31:32.299
+Benoit Gambier: Non, il y en a quand même quand même.
+
+459
+00:31:32.300 --> 00:31:35.069
+Benoit Gambier: je ne suis pas un héros.
+
+460
+00:31:35.280 --> 00:31:35.910
+Benoit Gambier: un héros.
+
+461
+00:31:39.910 --> 00:31:43.020
+Morvin Quernel: c'est pour faire la route contre un et.
+
+462
+00:31:43.020 --> 00:31:45.730
+Benoit Gambier: César, qui disait: Je suis pas un Néron, c'est pas pareil.
+
+463
+00:31:47.840 --> 00:31:49.470
+jean-luc lacaze: Un truc comme ça non plus.
+
+464
+00:31:51.650 --> 00:31:53.460
+tarik: Ce n'est pas avec un point non.
+
+465
+00:31:54.450 --> 00:31:58.320
+tarik: et l'intérieur.
+
+466
+00:32:00.460 --> 00:32:01.630
+jean-luc lacaze: Juste le poing.
+
+467
+00:32:01.630 --> 00:32:03.070
+Benoit Gambier: C'est juste notre point. Héros.
+
+468
+00:32:04.820 --> 00:32:05.809
+tarik: C'est ça, non.
+
+469
+00:32:05.810 --> 00:32:06.380
+Benoit Gambier: Ouais.
+
+470
+00:32:06.640 --> 00:32:08.239
+Benoit Gambier: donc j'avais juste en fait
+
+471
+00:32:08.240 --> 00:32:08.740
+Benoit Gambier: oui.
+
+472
+00:32:10.660 --> 00:32:11.650
+Benoit Gambier: rire.
+
+473
+00:32:13.280 --> 00:32:15.630
+jean-luc lacaze: Donc là on va faire
+
+474
+00:32:16.160 --> 00:32:17.060
+jean-luc lacaze: paix.
+
+475
+00:32:23.250 --> 00:32:24.610
+jean-luc lacaze: Lingua
+
+476
+00:32:25.560 --> 00:32:26.850
+jean-luc lacaze: in Line
+
+477
+00:32:29.260 --> 00:32:31.340
+jean-luc lacaze: 15 celle-là,
+
+478
+00:32:36.790 --> 00:32:39.290
+jean-luc lacaze: et on avait là la fonte
+
+479
+00:32:39.800 --> 00:32:41.120
+jean-luc lacaze: White.
+
+480
+00:32:45.520 --> 00:32:47.640
+jean-luc lacaze: on va le mettre sur 300
+
+481
+00:32:50.030 --> 00:32:50.740
+jean-luc lacaze: hop.
+
+482
+00:32:50.740 --> 00:32:51.600
+Benoit Gambier: Irving.
+
+483
+00:32:52.690 --> 00:32:59.310
+kevin antunes: On peut mettre section note Hiro et un autre une autre classe avec un espace, par exemple.
+
+484
+00:32:59.700 --> 00:33:01.280
+jean-luc lacaze: Avec une virgule un dans ce cas-là.
+
+485
+00:33:01.280 --> 00:33:02.610
+kevin antunes: Dire Guillaume.
+
+486
+00:33:04.330 --> 00:33:05.900
+kevin antunes: mais jouer avec la virgule, ça va.
+
+487
+00:33:10.240 --> 00:33:16.790
+Benoit Gambier: A l'intérieur du note, tu mets un sélecteur Css, donc si tu peux mettre n'importe quel sélecteur Css qui fonctionne.
+
+488
+00:33:16.790 --> 00:33:17.680
+kevin antunes: Ok, merci.
+
+489
+00:33:21.600 --> 00:33:22.929
+jean-luc lacaze: Pense qu'on a fini
+
+490
+00:33:23.860 --> 00:33:25.650
+jean-luc lacaze: chacun oublié.
+
+491
+00:33:31.100 --> 00:33:33.560
+Benoit Gambier: Par la bordure qui n'était pas au
+
+492
+00:33:33.880 --> 00:33:37.972
+Benoit Gambier: dans le modèle. Normalement. Ah, c'est la sélection Ok, c'est parce qu'il y A. Kevin qui a sélectionné
+
+493
+00:33:38.320 --> 00:33:39.440
+Benoit Gambier: donc il y a une bordure.
+
+494
+00:33:40.940 --> 00:33:44.499
+Benoit Gambier: mais euh, sinon ouais, c'est bon.
+
+495
+00:33:47.310 --> 00:33:50.030
+Benoit Gambier: c'est pratique. Le Padg in Line, le Padding Block.
+
+496
+00:33:50.030 --> 00:33:50.560
+jean-luc lacaze: On est.
+
+497
+00:33:51.200 --> 00:33:53.320
+jean-luc lacaze: je l'utilise partout maintenant.
+
+498
+00:33:56.340 --> 00:33:59.410
+Benoit Gambier: Est ce que est ce que tout le monde a
+
+499
+00:34:00.370 --> 00:34:05.759
+Benoit Gambier: a compris le principe justement pour centrer le texte, là
+
+500
+00:34:07.090 --> 00:34:10.420
+Benoit Gambier: sur l'image et pour que l'image elle arrive pile en bas de
+
+501
+00:34:10.969 --> 00:34:12.100
+Benoit Gambier: en bas de la page.
+
+502
+00:34:12.100 --> 00:34:16.939
+Anaïs Maxime: Moi pour qu'elle arrive. Pile en bas, pas totalement, non parce que vous pouvez.
+
+503
+00:34:16.940 --> 00:34:17.840
+Oumohand Yacine: Quatre lignes.
+
+504
+00:34:17.840 --> 00:34:28.780
+Benoit Gambier: Alors non, ça, c'est pour centrer les quatre lignes magiques pour arriver pile en bas, c'est les quatre lignes, les quatre propriétés qui sont en ligne 49 jusqu'à 53
+
+505
+00:34:29.440 --> 00:34:33.880
+Benoit Gambier: c'est-à-dire qu'à notre section Héros, on met sans Vh
+
+506
+00:34:34.250 --> 00:34:37.590
+Benoit Gambier: parce que la section Hero Elle commence tout en haut de la page
+
+507
+00:34:37.590 --> 00:34:38.479
+Benoit Gambier: et après.
+
+508
+00:34:38.480 --> 00:34:43.230
+Benoit Gambier: et on lui dit: Tu se terminer tout en bas de la page 100 Vh, ça veut dire la hauteur de la fenêtre
+
+509
+00:34:45.010 --> 00:34:53.140
+Benoit Gambier: et après à l'intérieur, on dit à l'image qu'elle doit faire 100 pour 100 de large et 100 pour 100 de haut. Ça veut dire qu'elle remplit la section héros.
+
+510
+00:34:55.230 --> 00:35:03.920
+Benoit Gambier: donc le fait qu'elle remplisse la section héros, ça la fait arriver vraiment. Pile en bas de la fenêtre. Quoi qu'il arrive, elle sera toujours positionnée pile en bas de la fenêtre.
+
+511
+00:35:04.140 --> 00:35:13.420
+Anaïs Maxime: Ok, mais j'ai une autre question, je vais être lou avec mon histoire de Heider, mais si on a un header qui prend toute la surface, on peut plus mettre 100 Vh, c'est moins.
+
+512
+00:35:13.420 --> 00:35:16.139
+Benoit Gambier: Si bien sûr que si et là il est en fixe.
+
+513
+00:35:17.170 --> 00:35:17.910
+Anaïs Maxime: Okay.
+
+514
+00:35:17.910 --> 00:35:20.759
+Benoit Gambier: Donc c'est en fait, il est en fixe, et il ne compte pas.
+
+515
+00:35:21.430 --> 00:35:22.200
+Anaïs Maxime: Il est.
+
+516
+00:35:22.200 --> 00:35:30.560
+Benoit Gambier: Il est passé devant donc l'image, si tu regardes l'image justement là, on voit bien avec la marge de 15 pixels qui a été mise tout autour.
+
+517
+00:35:30.890 --> 00:35:31.500
+Benoit Gambier: on voit
+
+518
+00:35:31.500 --> 00:35:37.100
+Benoit Gambier: l'image fait la totalité de l'écran et qu'il en a rien à faire de la barre de navigation.
+
+519
+00:35:37.240 --> 00:35:38.000
+karim moumid: L'avis.
+
+520
+00:35:38.350 --> 00:35:43.709
+Benoit Gambier: Par contre, si la Naz était en position n'était pas en position, quelque chose.
+
+521
+00:35:44.070 --> 00:35:46.049
+Anaïs Maxime: Ok, j'ai compris.
+
+522
+00:35:46.050 --> 00:35:46.420
+Benoit Gambier: Ce que
+
+523
+00:35:46.420 --> 00:35:46.979
+Benoit Gambier: et les
+
+524
+00:35:46.980 --> 00:35:47.500
+Benoit Gambier: dans le
+
+525
+00:35:47.500 --> 00:35:48.069
+Benoit Gambier: Donc, l'amendement
+
+526
+00:35:48.070 --> 00:35:49.450
+Benoit Gambier: climat vient se poser en dessous.
+
+527
+00:35:49.450 --> 00:35:50.340
+karim moumid: C'est là.
+
+528
+00:35:50.340 --> 00:35:50.979
+Anaïs Maxime: C'est vrai.
+
+529
+00:35:50.980 --> 00:35:57.539
+Benoit Gambier: Et là il faut faire avec une fonction calque, il faut lui retirer la hauteur de la barre de navigation.
+
+530
+00:35:58.010 --> 00:36:03.149
+Anaïs Maxime: J'avais oublié la dimension fixe et le fait que ça prenne pas la totalité. Merci.
+
+531
+00:36:03.150 --> 00:36:05.339
+Benoit Gambier: Je t'en prie, Karim t'avait élevé la main.
+
+532
+00:36:05.340 --> 00:36:14.430
+karim moumid: Bon, c'est bon. C'est la même question qu'anaïs. Par exemple, les matchs commencent au-dessous de Mcdonald et tu viens de répondre.
+
+533
+00:36:14.430 --> 00:36:17.670
+Benoit Gambier: Voilà, il faut faire. Il faut utiliser la fonction calque pour faire un calcul.
+
+534
+00:36:17.670 --> 00:36:18.260
+karim moumid: Et aussi.
+
+535
+00:36:18.260 --> 00:36:23.080
+Benoit Gambier: On lui met 100 Vh moins le nombre de pixels correspondant à la hauteur de la barre.
+
+536
+00:36:24.010 --> 00:36:28.459
+karim moumid: Ok, moi j'avais fait ça, j'avais cru que l'image commence en bas de Naf.
+
+537
+00:36:32.100 --> 00:36:32.750
+Benoit Gambier: Ok.
+
+538
+00:36:36.860 --> 00:36:40.349
+Benoit Gambier: Est-ce qu'il y a des questions particulières?
+
+539
+00:36:44.170 --> 00:36:48.979
+Benoit Gambier: Non, vous avez pu voir que Jean-luc a fait un putsch sur
+
+540
+00:36:49.430 --> 00:36:51.460
+Benoit Gambier: sur Github, donc vous avez la correction sur Github.
+
+541
+00:36:51.460 --> 00:36:58.280
+da silva cédric: Juste moi, j'aurais voulu que tu me réexpliques un peu mieux parce que je me rappelle pas d'avoir vu celui ci.
+
+542
+00:36:58.700 --> 00:37:00.729
+Oumohand Yacine: C'est quoi? C'est ce qu'il a émis, c'est.
+
+543
+00:37:01.450 --> 00:37:04.189
+da silva cédric: L'objectif de.
+
+544
+00:37:05.690 --> 00:37:07.180
+Benoit Gambier: Object, Feitover.
+
+545
+00:37:07.180 --> 00:37:10.350
+da silva cédric: Voilà objectif. Enfin l'objectif, surtout.
+
+546
+00:37:10.820 --> 00:37:11.940
+Benoit Gambier: Objectif Kit Ouais.
+
+547
+00:37:11.940 --> 00:37:14.310
+jean-luc lacaze: Alors regarde, si je le mets pas.
+
+548
+00:37:17.960 --> 00:37:21.130
+jean-luc lacaze: notre image qui est déformée. En fait.
+
+549
+00:37:21.130 --> 00:37:27.499
+da silva cédric: Mais le but de l'objectif, en fait, c'est quoi? C'est par rapport pour la taille de la fenêtre, c'est quoi exactement.
+
+550
+00:37:27.810 --> 00:37:28.800
+jean-luc lacaze: C'est
+
+551
+00:37:29.070 --> 00:37:34.239
+jean-luc lacaze: le dimensionnement de ton image dans ta fenêtre.
+
+552
+00:37:34.370 --> 00:37:35.420
+da silva cédric: Ok, donc.
+
+553
+00:37:35.420 --> 00:37:36.829
+Benoit Gambier: Dans le parent.
+
+554
+00:37:37.720 --> 00:37:38.800
+jean-luc lacaze: C'est ça.
+
+555
+00:37:38.800 --> 00:37:39.370
+da silva cédric: C'est pas.
+
+556
+00:37:39.370 --> 00:37:44.849
+da silva cédric: il faut souvent le mettre, c'est dans le parent, ça, de toute façon, c'est beaucoup, c'est pas mal, c'est souvent le parent, quoi que c'est lié.
+
+557
+00:37:44.850 --> 00:37:49.959
+Benoit Gambier: Ben. En fait les images, quoiqu'il arrive, elles sont dimensionnées par rapport à leurs parents.
+
+558
+00:37:50.460 --> 00:37:51.070
+da silva cédric: D'accord.
+
+559
+00:37:51.070 --> 00:37:57.159
+Benoit Gambier: Si elles ont une dimension si elles n'ont pas de dimension, elles font la taille qu'on a.
+
+560
+00:37:57.160 --> 00:37:58.009
+da silva cédric: Je vous remercie.
+
+561
+00:37:58.010 --> 00:38:08.880
+Benoit Gambier: Faire si c'est une image qui fait 200 pixels, elle fera 200 pixels si on ne lui donne pas de dimension si on lui dit oui 100 pour 100 qu'elle fasse 200 400 500 pixels, elle fera 100 pour 100 de son parent.
+
+562
+00:38:10.600 --> 00:38:13.579
+Benoit Gambier: Et donc Object feat. Va te permettre
+
+563
+00:38:14.050 --> 00:38:17.459
+Benoit Gambier: détirer ton image pour qu'elle remplisse
+
+564
+00:38:18.290 --> 00:38:19.070
+Benoit Gambier: le dialogue.
+
+565
+00:38:19.370 --> 00:38:21.879
+Benoit Gambier: le parent avec Cover et
+
+566
+00:38:22.080 --> 00:38:27.260
+Benoit Gambier: ou de faire rentrer toute l'image dans son parent avec contain.
+
+567
+00:38:27.420 --> 00:38:32.659
+Benoit Gambier: donc sans la déformer, quoi qu'il arrive, elle ne se défendra pas
+
+568
+00:38:34.740 --> 00:38:39.400
+Benoit Gambier: donc là. D'ailleurs, si Jean Luc, tu réduis la hauteur de la fenêtre
+
+569
+00:38:39.780 --> 00:38:46.380
+Benoit Gambier: pour que la hauteur de la fenêtre soit plus petite que la proportion d'images. On va voir que les bandes blanches, elles vont passer sur le côté. Voilà,
+
+570
+00:38:47.620 --> 00:38:50.029
+Benoit Gambier: c'est à dire que ça met toute l'image.
+
+571
+00:38:50.600 --> 00:38:58.410
+Benoit Gambier: Et puis il met des bandes du cote où il faut mettre des bandes pour que l'image ne soit pas déformée. Donc
+
+572
+00:38:59.010 --> 00:39:04.160
+Benoit Gambier: nous, on veut que ça soit rempli par l'image, donc on va utiliser qu'over, c'est à dire qu'il va
+
+573
+00:39:04.400 --> 00:39:09.539
+Benoit Gambier: agrandir la plus petite des dimensions en fait de façon à ce que
+
+574
+00:39:09.700 --> 00:39:15.559
+Benoit Gambier: ça tienne dans la totalité de la de la zone du parent
+
+575
+00:39:16.220 --> 00:39:19.139
+Benoit Gambier: et quitte à perdre un petit peu d'information.
+
+576
+00:39:19.540 --> 00:39:21.419
+jean-luc lacaze: On va avoir des fonds perdus là.
+
+577
+00:39:21.420 --> 00:39:28.130
+Benoit Gambier: Là, on a là, on a la droite et la gauche et sur une fenêtre très plate, on a le haut et le bas qui sont coupés.
+
+578
+00:39:29.080 --> 00:39:32.859
+tarik: J'ai une petite question, c'est à l'objectif Finckover.
+
+579
+00:39:33.830 --> 00:39:37.650
+tarik: mais que la part de navigation, elle est pas en fixe.
+
+580
+00:39:38.570 --> 00:39:41.330
+Benoit Gambier: Ça changera rien, c'est toujours par rapport aux parents.
+
+581
+00:39:43.810 --> 00:39:46.620
+tarik: Même l'image, elle ne passera plus en dessous.
+
+582
+00:39:46.790 --> 00:39:51.009
+Benoit Gambier: Elle n'ira pas derrière, non, elle ira; elle sera posée en dessous.
+
+583
+00:39:51.220 --> 00:39:53.449
+Benoit Gambier: en dessous de la barreaux.
+
+584
+00:39:53.450 --> 00:39:53.770
+tarik: Okay.
+
+585
+00:39:53.770 --> 00:39:55.070
+Benoit Gambier: Verticalement; en dessous.
+
+586
+00:39:55.600 --> 00:39:57.117
+tarik: D'accord, elle sera posée en dessous.
+
+587
+00:39:58.190 --> 00:40:00.180
+Benoit Gambier: A noter que là
+
+588
+00:40:00.290 --> 00:40:07.540
+Benoit Gambier: tout ce calcul par rapport au centre de l'image, vous avez remarqué qu'il y a un lac au milieu de l'image et qu'il est toujours au milieu.
+
+589
+00:40:08.410 --> 00:40:10.160
+Benoit Gambier: quelle que soit la taille de la fenêtre.
+
+590
+00:40:11.640 --> 00:40:17.110
+Benoit Gambier: Si vous avez le sujet principal de votre image qui, à droite ou à gauche.
+
+591
+00:40:17.710 --> 00:40:19.609
+Benoit Gambier: vous n'avez pas envie qu'il disparaisse.
+
+592
+00:40:19.960 --> 00:40:29.340
+Benoit Gambier: savez quelquefois vous avez des images, on voit une personne sur le cote et puis elle regarde vers la vers la droite. Par exemple, on ne veut pas que la personne, elle disparaisse, qu'elle soit coupée.
+
+593
+00:40:30.073 --> 00:40:38.540
+Benoit Gambier: bien, dans ce cas là, vous avez une autre propriété que tu peux mettre en dessous les lignes 53 Si tu veux Jean Luc qui s'appelle Objet, Position, object, Position
+
+594
+00:40:39.490 --> 00:40:41.110
+Benoit Gambier: qui va avec Objectif
+
+595
+00:40:41.250 --> 00:40:46.660
+Benoit Gambier: et objet Object Position vous dites par exemple left et ça va coller le bord gauche
+
+596
+00:40:46.820 --> 00:40:48.949
+Benoit Gambier: et le bord gauche sera toujours visible
+
+597
+00:40:49.700 --> 00:40:53.550
+Benoit Gambier: et ça coupera automatiquement le bord droit
+
+598
+00:40:54.520 --> 00:40:57.180
+Benoit Gambier: Systématiquement, La gauche bougera jamais.
+
+599
+00:40:57.990 --> 00:41:01.100
+Benoit Gambier: Si vous mettez Object position right.
+
+600
+00:41:01.340 --> 00:41:09.849
+Benoit Gambier: ça fera à la droite. Top et Botop, c'est pareil. Vous pouvez mettre par exemple Top left, ça collera le coin supérieur gauche.
+
+601
+00:41:11.630 --> 00:41:16.469
+Benoit Gambier: donc là Top Wright, Voilà, on a le coin supérieur droit qui bougera jamais, il sera toujours visible.
+
+602
+00:41:19.370 --> 00:41:20.220
+Benoit Gambier: Ok.
+
+603
+00:41:20.870 --> 00:41:24.960
+Benoit Gambier: donc par défaut, c'est centre, si vous ne mettez rien.
+
+604
+00:41:25.160 --> 00:41:29.740
+Benoit Gambier: c'est le milieu de l'image qui reste tout le temps, tout le temps présent.
+
+605
+00:41:32.900 --> 00:41:34.970
+Benoit Gambier: Donc ça ça peut vous servir, quelquefois
+
+606
+00:41:35.190 --> 00:41:46.319
+Benoit Gambier: parce que ça arrive qu'on ait des images, comme par exemple, vous voyez dans le dans la maquette. Éducation L'image de la fille jaune avec l'oeil dans la dans la main
+
+607
+00:41:46.900 --> 00:41:51.190
+Benoit Gambier: si vous voulez que l'oeil qu'elle tient dans la main soit toujours présent à l'écran.
+
+608
+00:41:51.953 --> 00:41:54.410
+Benoit Gambier: bien, il faut que vous mettiez et que vous mettiez top
+
+609
+00:41:54.670 --> 00:41:57.269
+Benoit Gambier: comme ça, le haut de l'image sera jamais coupé,
+
+610
+00:41:59.860 --> 00:42:02.000
+Benoit Gambier: donc quelquefois il faut faire des choses comme ça.
+
+611
+00:42:04.220 --> 00:42:11.640
+Benoit Gambier: alors bien sûr, encore une fois, il va vous falloir quelques années de pratique de Css pour absorber toutes ces infos.
+
+612
+00:42:13.830 --> 00:42:15.609
+Benoit Gambier: Quand je dis: année, c'est année.
+
+613
+00:42:17.160 --> 00:42:21.029
+jean-luc lacaze: Et sachant qu'il va y avoir de nouvelles propriétés pendant ces années, en plus.
+
+614
+00:42:21.030 --> 00:42:21.610
+Benoit Gambier: Voilà, c'est
+
+615
+00:42:22.360 --> 00:42:23.210
+Benoit Gambier: donc c'est.
+
+616
+00:42:23.210 --> 00:42:24.589
+jean-luc lacaze: Un trou sans fin. Rires.
+
+617
+00:42:24.590 --> 00:42:30.739
+Benoit Gambier: Clairement: Regarde, tu as découvert laquelle tout à l'heure, je sais plus.
+
+618
+00:42:30.740 --> 00:42:31.670
+jean-luc lacaze: Ratios.
+
+619
+00:42:31.670 --> 00:42:33.440
+Benoit Gambier: Ratio, voilà spectre, ratio.
+
+620
+00:42:33.650 --> 00:42:34.630
+jean-luc lacaze: Spectre.
+
+621
+00:42:35.410 --> 00:42:39.720
+Benoit Gambier: Elle est très pratique et d'ailleurs elle marche bien dans le template. Éducation.
+
+622
+00:42:39.720 --> 00:42:40.690
+jean-luc lacaze: Oui Oui.
+
+623
+00:42:40.690 --> 00:42:41.990
+Benoit Gambier: Ha Ha
+
+624
+00:42:43.070 --> 00:42:43.740
+Benoit Gambier: Il y
+
+625
+00:42:44.810 --> 00:42:53.239
+Benoit Gambier: avant juste avant de faire la pause, tu peux me laisser la main que je partage mon écran, s'il te plaît.
+
+626
+00:42:53.470 --> 00:42:59.409
+Benoit Gambier: je vais juste vous parler de deux trois petites choses justement sur éducation.
+
+627
+00:43:00.900 --> 00:43:02.900
+jean-luc lacaze: Je me pose sur dans.
+
+628
+00:43:02.900 --> 00:43:03.900
+Benoit Gambier: Oui, tu peux Oui.
+

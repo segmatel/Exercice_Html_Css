@@ -144,14 +144,21 @@ main{
   }
   /****************************Section3*****************/
   .Assistance{
-   img{
-    text-align: center;
-  }
-  
   .border{
     border: 3px solid var(--primary);
     margin-left: 40px;
+   margin-right: 40px;
+   margin-top: 10px; 
+  }
+  h2{
+    margin-left: 40px;
     margin-right: 40px;
+    font-size: 34px;
+  }
+  p{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 18px;
   }
   button{
     background-color: var(--primary);
@@ -160,12 +167,24 @@ main{
     width: 150px;
     height: 52px;
     border-radius: 7px;
-    font-size: 17px;
+    font-size: 17px; 
     margin-left: 40px;
+  } 
+  article > p{
+    line-height: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+    
+       }
+  .Contact{
+    color: var(--primary);
   }
-  
 }
 
+/*******************************Section4****************/
+.Choisissez{
+  background-color: var(--Lighy-secondary);
+  }
 }
 
 
